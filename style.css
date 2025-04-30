@@ -47,3 +47,17 @@
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
 }
+.card-footer{
+    background-color: white;
+    border:none;
+}
+#subscribe{
+    height:300px;
+}
+#subscribe h6{
+    color:grey;
+}
+footer{
+    text-align: center;
+    color: grey;;
+}
